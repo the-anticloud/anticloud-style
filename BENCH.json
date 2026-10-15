@@ -2,13 +2,11 @@
  "schema": "anticloud.tier-bench/1",
  "project": "STYLE",
  "source": {
-  "repo_path": "E:\\fenta\\Downloads\\The Anticloud\\ANTICLOUD_REPOS\\DESIGN_TOOLS\\STYLE\\UPSTREAM",
   "git": {
-   "head": "a0d164d6a8a69fa4a87139bcd193291057f4ca39",
-   "url": "https://github.com/lllyasviel/style2paints",
-   "branch": "master",
-   "committed_at": "2026-09-29T11:06:59+04:00",
-   "sha_verified_from": "GitHub API commits/master"
+   "url": "https://github.com/styled-components/styled-components",
+   "head": "379477dabb6875cc7d332269db5da61282d225e9",
+   "sha_verified_from": "revendor 2026-10-15: GitHub API commit lookup",
+   "previous_substitute": "https://github.com/lllyasviel/style2paints"
   }
  },
  "metrics": {
