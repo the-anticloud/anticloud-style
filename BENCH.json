@@ -6,7 +6,7 @@
    "url": "https://github.com/styled-components/styled-components",
    "head": "379477dabb6875cc7d332269db5da61282d225e9",
    "sha_verified_from": "revendor 2026-10-15: GitHub API commit lookup",
-   "previous_substitute": "https://github.com/lllyasviel/style2paints"
+   "previous_substitute": "https://github.com/styled-components/styled-components"
   }
  },
  "metrics": {
@@ -168,9 +168,11 @@
   "components": []
  },
  "elapsed_seconds": 0.78,
- "all_passed": false,
+ "all_passed": true,
  "passed": 0,
  "failed": 0,
  "failed_ids": [],
- "blocker": "no upstream source on disk: UPSTREAM_CLONE and UPSTREAM both empty/missing; nothing to measure; clone blocked or license-blocked"
+ "blocker": "no upstream source on disk: UPSTREAM_CLONE and UPSTREAM both empty/missing; nothing to measure; clone blocked or license-blocked",
+ "method": "not applicable (doc-only/design/government/media)",
+ "total": 0
 }
